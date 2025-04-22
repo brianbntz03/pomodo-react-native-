@@ -12,7 +12,7 @@ Aplicación mobile con técnica Pomodoro para ayudarte a mejorar la productivida
 - Estilo minimalista y funcional
 
 ## 📱 Vista previa
-*(Podés subir capturas si querés mostrar cómo se ve en el dispositivo)*
+![Image](https://github.com/user-attachments/assets/262df5d6-1c09-40e5-bf27-52954af8bff4)
 
 ## 🚀 Instalación
 - git clone https://github.com/brianbntz03/pomodo-react-native-
